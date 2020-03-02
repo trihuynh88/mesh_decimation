@@ -1,7 +1,7 @@
 /*
 Mesh Decimation version 1.0
 
-  Author: Tri Huynh (tri_huynh@siemens.com)
+  Author: Tri Huynh (hquoctri@gmail.com)
   Functionality: reduce the number of triangles from the input mesh to a desired target number.
   Acknowledgement: the algorithm is adapted from the article "Surface Simplification Using Quadric Error Metrics" of Michael Garland. & Paul S. Heckbert
 					and Michael Garland's thesis on "Quadric-Based Polygonal Surface Simplification"
