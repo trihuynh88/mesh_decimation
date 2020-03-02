@@ -1,4 +1,4 @@
-// SiemensDecimation.cpp : Defines the entry point for the console application.
+// Decimation.cpp : Defines the entry point for the console application.
 //
 
 
